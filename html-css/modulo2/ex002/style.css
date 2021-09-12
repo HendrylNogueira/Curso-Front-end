@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right, #F5DCCD, #A88D7D);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px; /* Deixa a borda arredondada*/
+    box-shadow: 5px 5px 15px #68574d8c; /* Ajuste de sombra*/
+    width: 600px; /* Ajuste do tamanho do quadrado do HTML*/
+    padding: 10px; /* Ajuste da borda entre o conteúdo e o quadrado HTML*/ 
+    margin: auto; /* Ajuste da posição do quadrado ("auto" deixa centralizado independenta do tamanho da tela)*/
+}
+
+h1 {
+    text-align: center;
+    color: #629a9b;
+    text-shadow: 1px 1px 2px #4a717293; /* Ajuste da sombra*/
+}
+
+h2 {
+    color: #667677;
+}
+p {
+    text-align: justify;
+}
